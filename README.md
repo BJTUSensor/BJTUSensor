@@ -3,3 +3,4 @@ Yu presided over the construction of Iot sensing laboratory, with the current eq
 
 International applicants for master and Ph.D. degrees are welcome, if you are curiosity driven, self-motivated, and output oriented. We provide a human-orientated, scientifically rich and dynamic environment with no discrimination. Students have opportunities to exchange in domestic/oversea research groups for short or long terms.
 
+![image](https://github.com/BJTUSensor/BJTUSensor/blob/main/Research%20orientation.png)
