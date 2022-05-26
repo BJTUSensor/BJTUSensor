@@ -1,6 +1,6 @@
 # IoT sensor lab @ Beijing Jiaotong University
 
-The Internet of Things Sensor Lab was established by Dr. Kuanglu Yu in 2017, there are currently two Ph.D. students (one from Tanzania), eight master students, one lab technician, and one associate professor. We mainly focus on distributed fiber optical sensors(hardware, our first Phi-OTDR model is able to hear [music](https://github.com/BJTUSensor/BJTUSensor) 5km away from station), and especially on data processing for those sensors based on SOTA information processing technology(including, machine learning, image and video processing et al).
+The Internet of Things Sensor Lab was established by Dr. Kuanglu Yu in 2017, there are currently two Ph.D. students (one from Tanzania), eight master students, one lab technician, and one associate professor (Dr. K. Yu). We mainly focus on distributed fiber optical sensors(hardware, our first Phi-OTDR model is able to hear [music](https://github.com/BJTUSensor/BJTUSensor) 5km away from station), and especially on data processing for those sensors based on SOTA information processing technology(including, machine learning, image and video processing et al).
 
 On GitHub, we wish to share our code, papers, and our dataset (in preparation), so that we could hold hands with global professors, students, researchers, engineers from both academy and industry to push together forward the application and technology of Distributed fiber optical sensors.
 
