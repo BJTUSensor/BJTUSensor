@@ -4,7 +4,7 @@ The Internet of Things Sensor Lab was established by Dr. Kuanglu Yu (klyu at bjt
 
 On GitHub, we share our code, papers, and our dataset, in the hope that we could hold hands with global professors, students, researchers, engineers from both academy and industry to push together forward the application and technology of Distributed fiber optical sensors.
 
-You are welcome to use our codes and dataset for **non-commercial scientific reseach proposes**, but please do mention the their origin (our papers and Github). ***For commercial applications, please contact Dr. Yu for approval.*** (as our contributions are protected by patents)
+You are welcome to use our codes and dataset for **non-commercial scientific reseach purposes**, but please do mention the their origin (our papers and Github). ***For commercial applications, please contact Dr. Yu for approval.*** (as our contributions are protected by patents)
 
 International enrollment: International applicants for master and Ph.D. degrees are welcome, if you are curiosity driven, self-motivated, and output oriented. We provide a human-orientated, scientifically rich and dynamic environment with no discrimination. Students have opportunities to exchange in domestic/oversea research groups for short or long terms.
 
